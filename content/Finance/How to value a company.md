@@ -4,8 +4,6 @@ title: How to value a company
 draft: false
 tags:
 ---
-Wesh la zone ca dit quoi
-
 # Intro  - Business valuation methods
 
 A business valuation is the process of determining the [economic value](https://www.investopedia.com/terms/e/economic-value.asp) of a business, ie the company valuation.
