@@ -1,18 +1,3 @@
-# Quartz v4
+# My Digital Garden
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+> I created this digital garden because I’ve always loved exploring topics related to science, mathematics, and data — from market and corporate finance to signal processing and machine learning. Over time, I realized that keeping track of my thoughts and organizing what I learn had become increasingly difficult. That’s why I started taking structured notes — as a foundation for continuous learning — and decided to make this space public. This garden is where I plant idea seeds, nurture them over time, and watch them grow into a better understanding of the world and how things connect.
