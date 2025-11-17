@@ -7,7 +7,7 @@ outlineOf: Maths/Maths - Algebre Lineaire
 ---
 <ContentOutline />
 
-## [[quartz/content/Maths/Maths - Algebre Lineaire.md|Algèbre]]
+## [[Maths/Maths - Algebre Lineaire.md|Algèbre]]
 
 ``` mermaid
 mindmap

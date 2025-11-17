@@ -36,15 +36,15 @@ graph TD
 
 ---
 
-# Performance Metrics
+# [[Finance/Performances Metrics.md|Performance Metrics]]
 
 ---
 
-# [[quartz/content/Finance/Risks & Returns.md|Risks & Returns]]
+# [[Finance/Risks & Returns.md|Risks & Returns]]
 
 
 ---
 
-# [[quartz/content/Finance/How to value a company.md|Business Valuation]]
+# [[Finance/How to value a company.md|Business Valuation]]
 
 
