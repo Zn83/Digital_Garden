@@ -73,7 +73,7 @@ $$
 \ker(A) = \{ x \in \mathbb{R}^n \mid A x = 0 \}
 $$
 - C'est un sous-espace vectoriel de $\mathbb{R}^n$.
-- **Lien avec le rang** : $\dim(\ker(A)) + \operatorname{rg}(A) = n$ (théorème du rang).
+- **Lien avec le rang** : $\dim(\ker(A)) + \operatorname{rg}(A) = n$ (théorème du [[#Rang]]).
 
 ### Exemple : Calcul du noyau d'une matrice
 
@@ -283,13 +283,15 @@ A - 4I = \begin{pmatrix}
 \end{pmatrix}
 $$
 On résout 
-$$(A - 4I)x = 0 \Leftrightarrow \begin{pmatrix}
+$$
+(A - 4I)x = 0 \Leftrightarrow \begin{pmatrix}
 0 & 1 \\
 0 & -2
 \end{pmatrix}\begin{pmatrix}
 x_1\\
 x_2
-\end{pmatrix}=0\Leftrightarrow \begin{cases}
+\end{pmatrix}=0 \Leftrightarrow
+\begin{cases}
 0 \cdot x_1 +1\cdot x_2 = 0\\0 \cdot x_1 - 2 \cdot x_2 = 0
 \end{cases}
 $$
@@ -344,7 +346,8 @@ $$
 ## Rappels utiles
 - $(AB)^T = B^T A^T$ ; $\det(AB)=\det(A)\det(B)$ ; $\operatorname{tr}(AB)=\operatorname{tr}(BA)$.
 - Norme euclidienne : $\lVert u \rVert = \sqrt{u\cdot u}$ ; produit scalaire : $u\cdot v = \sum_i u_i v_i$.
-- Rang : $\operatorname{rg}(A)$ = dimension de l'espace engendré par les colonnes de $A$ ; $A$ inversible $\Leftrightarrow\ \operatorname{rg}(A)=n$.
+#### Rang
+ $\operatorname{rg}(A)$ = dimension de l'espace engendré par les colonnes de $A$ ; $A$ inversible $\Leftrightarrow\ \operatorname{rg}(A)=n$.
 
 ---
 

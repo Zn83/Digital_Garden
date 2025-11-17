@@ -3,10 +3,11 @@ sticker: emoji//1f5fa-fe0f
 title: Index Maths
 draft: false
 tags:
-outlineOf: Maths/Maths - Algèbre Linéaire
+outlineOf: Maths/Maths - Algebre Lineaire
 ---
+<ContentOutline />
 
-## Algèbre
+## [[quartz/content/Maths/Maths - Algebre Lineaire.md|Algèbre]]
 
 ``` mermaid
 mindmap

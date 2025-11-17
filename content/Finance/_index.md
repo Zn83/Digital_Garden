@@ -40,11 +40,11 @@ graph TD
 
 ---
 
-# Risks & Returns
+# [[quartz/content/Finance/Risks & Returns.md|Risks & Returns]]
 
 
 ---
 
-# Business Valuation
+# [[quartz/content/Finance/How to value a company.md|Business Valuation]]
 
 
