@@ -14,37 +14,44 @@ This diagram shows the relationships between **risk models**, **valuation method
 
 ```mermaid
 graph TD
-    A[Financial Principles] --> B[Risk & Return Models]
+
+    A[Financial Principles]
+
+    %% Main branches
+    A --> B[Risk & Return Models]
     A --> C[Valuation Methods]
     A --> D[Performance Metrics]
+    A --> E[Concepts & Foundations]
 
-    B --> B1[CAPM]
+    %% -----------------------
+    %% Risk & Return
+    %% -----------------------
     B --> B2[Beta]
-    B --> B4[WACC]
+    B --> B5[APT]
+    B --> B6[Fama-French]
 
-    C --> C2["Market Cap<br>Times Revenue<br>Earnings Multiplier<br>Book Value<br>Liquidation Value<br>Comparable Analysis"]
+    %% Structural links
+    B2 --> B1[CAPM]
+    B1 --> B4[WACC]
+    B6 --> B1
+    B4 --> C1
+
+    %% -----------------------
+    %% Valuation
+    %% -----------------------
     C --> C1[DCF]
 
-    D --> D1[Alpha]
-    D --> D2[Sharpe Ratio]
-    D --> D3[Sortino Ratio]
-	
-	B2 --> B1
-    B1 --> B4
-    B4 --> C1
+    C --> C2[Comparables<br>Market Cap, Revenue, Earnings Multiplier,<br>Book Value, Liquidation Value]
+    C --> C3[EV/EBITDA]
+    C --> C4[Gordon Growth, DDM]
+
+    %% -----------------------
+    %% Performance Metrics
+    %% -----------------------
+	D --> D1a[Alpha<br>Sharpe Ratio<br>Sortino Ratio]
+
+    %% -----------------------
+    %% Concepts & Foundations
+    %% -----------------------
+    E --> E1[Time Value of Money TVM<br>Capital Structure<br>Discount vs Hurdle Rate<br>Risk Premium Concepts<br>Liquidity & Volatility<br>Net Present Value NPV<br>Internal Rate of Return IRR]
 ```
-
----
-
-# [[Finance/Performances Metrics.md|Performance Metrics]]
-
----
-
-# [[Finance/Risks & Returns.md|Risks & Returns]]
-
-
----
-
-# [[Finance/How to value a company.md|Business Valuation]]
-
-

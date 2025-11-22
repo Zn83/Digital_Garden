@@ -78,8 +78,10 @@ $$DCF = \sum_{t=1}^{n} DPV_t = \sum_{t=1}^{n} \frac{CF_t}{(1+r)^t}$$
 $$\displaystyle DPV_n={\frac {FV}{(1+r)^{n}}}$$
 - $DPV$ - **(Discounted Present Value)** est la **valeur actuelle d’un seul flux futur**.
 - $FV$ is the nominal value of a cash flow amount in a future period
-- $r$ is the discount rate, which reflects the cost of tying up capital (often WACC)
+- $r$ is the discount rate, which reflects the cost and risks of tying up capital (often WACC, see [[Apple Notes/Ressources/Professionnel/Training/Economie&Finances/Market & Corporate Finance/Risks & Returns.md|Risks]])
 - $n$ is the time in years before the future cash flow occurs.
+
+See example [[Valuation Example CAPM → WACC → DCF]]
 
 ---
 #### Flow Diagram: DCF Process
