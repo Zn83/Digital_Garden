@@ -22,7 +22,6 @@ outlineOf: Finance/How to value a company
 >     A --> D[Performance Metrics]
 >     A --> E[Concepts & Foundations]
 > 
->     %% Risk & Return
 >     B --> B2[Beta]
 >     B --> B5[APT]
 >     B --> B6[Fama-French]
@@ -32,17 +31,14 @@ outlineOf: Finance/How to value a company
 >     B6 --> B1
 >     B4 --> C1
 > 
->     %% Valuation
 >     C --> C1[DCF]
 > 
 >     C --> C2[Comparables<br/>Market Cap<br/>Revenue<br/>Earnings Multiplier<br/>Book Value<br/>Liquidation Value]
 >     C --> C3[EV/EBITDA]
 >     C --> C4[Gordon Growth<br/>DDM]
 > 
->     %% Performance
 >     D --> D1a[Alpha<br/>Sharpe Ratio<br/>Sortino Ratio]
 > 
->     %% Foundations
 >     E --> E1[Time Value of Money - TVM<br/>Capital Structure<br/>Discount vs Hurdle Rate<br/>Risk Premium Concepts<br/>Liquidity & Volatility<br/>NPV<br/>IRR]
 > ```
 > 
