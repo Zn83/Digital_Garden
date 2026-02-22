@@ -3,6 +3,9 @@ import fs from "fs"
 import path from "path"
 
 /**
+ * 
+ *  COMPONENT PERSO
+ * 
  * slugify: normalise un titre/segment en slug "friendly" :
  * - lowercase
  * - remove accents

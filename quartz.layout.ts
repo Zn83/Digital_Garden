@@ -64,7 +64,7 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [
-    Component.ContentOutline(),
-  ],
+  // right: [
+  //   Component.ContentOutline(),
+  // ],
 }
