@@ -6,7 +6,9 @@ tags:
 ---
 
 
+> [!abstract]
 > I created this digital garden because I’ve always loved exploring topics related to science, mathematics, and data — from market and corporate finance to signal processing and machine learning.
 > Over time, I realized that keeping track of my thoughts and organizing what I learn had become increasingly difficult. That’s why I started taking structured notes — as a foundation for continuous learning — and decided to make this space public.
 > This garden is where I plant idea seeds, nurture them over time, and watch them grow into a better understanding of the world and how things connect.
+
 
