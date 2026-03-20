@@ -1,9 +1,9 @@
 ---
 sticker: emoji//1f5fa-fe0f
-title: Index Maths
+title: Maths
 draft: false
 tags:
-outlineOf: Maths/Maths - Algebre Lineaire
+outlineOf: "\n"
 ---
 <ContentOutline />
 

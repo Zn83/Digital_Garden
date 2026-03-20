@@ -53,7 +53,7 @@ $$
 dS_t = \mu S_t \, dt + \sigma S_t \, dW_t
 $$
 
-where $ dW_t $ is a Wiener process (Brownian motion).
+where $dW_t$ is a Wiener process (Brownian motion).
 
 ---
 

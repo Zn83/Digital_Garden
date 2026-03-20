@@ -1,15 +1,17 @@
 ---
 aliases:
 ---
-## Reminder Flow Diagram: CAPM → WACC → DCF
-```mermaid
-flowchart TD
-A[CAPM: Calculate Cost of Equity] --> B[Combine with Cost of Debt]
-B --> C[Compute WACC]
-C --> D[Use WACC as Discount Rate in DCF]
-```
+> [!info] Reminder Flow Diagram: CAPM → WACC → DCF
+> 
+> ```mermaid
+> flowchart TD
+> A[CAPM: Calculate Cost of Equity] --> B[Combine with Cost of Debt]
+> B --> C[Compute WACC]
+> C --> D[Use WACC as Discount Rate in DCF]
+> ```
+> 
 
-
+---
 ## *Step 1: Calculate Cost of Equity using CAPM*
 
 The *Capital Asset Pricing Model (CAPM)* formula:
@@ -46,7 +48,6 @@ $$
 $$
 $$
 \text{WACC} = 0.6 \times 9\% + 0.4 \times 5\% \times 0.75
-\$$
 $$
 $$
 \text{WACC} = 5.4\% + 1.5\% = \mathbf{6.9\%}

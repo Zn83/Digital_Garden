@@ -23,7 +23,7 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
-import ContentOutline from "./ContentOutline"
+import IndexGrid from "./IndexGrid"
 
 export {
   ArticleTitle,
@@ -50,6 +50,6 @@ export {
   Breadcrumbs,
   Comments,
   Flex,
+  IndexGrid,
   ConditionalRender,
-  ContentOutline,
 }

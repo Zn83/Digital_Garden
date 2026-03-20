@@ -12,3 +12,63 @@
   margin-left: 2rem;
   font-style: italic;
 }
+
+/* SECTION (le conteneur autour des cartes) */
+.card-section {
+  border-radius: 16px;
+  padding: 20px;
+  margin-bottom: 24px;
+  border: 1px solid var(--lightgray);
+  background-color: var(--bg);
+}
+
+/* GRID */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 12px;
+}
+
+/* CARD */
+.card {
+  display: block;
+  padding: 14px;
+  border-radius: 12px;
+  border: 1px solid var(--lightgray);
+  background-color: var(--bg-secondary);
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+
+/* HOVER */
+.card:hover {
+  border-color: var(--gray);
+  transform: translateY(-2px);
+}
+
+/* HEADER */
+.card-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+
+/* ICON */
+.card-icon {
+  font-size: 1.1rem;
+}
+
+/* TITLE */
+.card-title {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--text);
+}
+
+/* DESCRIPTION */
+.card-desc {
+  font-size: 0.75rem;
+  color: var(--gray);
+  line-height: 1.3;
+}
