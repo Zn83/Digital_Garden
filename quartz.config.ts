@@ -17,7 +17,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://Zn83.github.io/Digital_Garden",
+    baseUrl: "zn83.github.io",
+    basePath: "Digital_Garden",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

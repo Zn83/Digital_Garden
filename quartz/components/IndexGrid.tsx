@@ -65,7 +65,7 @@ const FinanceGrid: QuartzComponentConstructor = () => {
 
             <div class="card-grid">
               {files.map((file) => (
-                <a href={`/${file.slug}`} class="card">
+                <a href={`/${file.slug!}`} class="card">
                   <div class="card-header">
                     <span class="card-icon">📄</span>
                     <span class="card-title">
